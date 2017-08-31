@@ -1,0 +1,38 @@
+{
+  "name": "ATInternetJWPlayer",
+  "version": "1.0.0",
+  "description": "Rich Media measurement for JW Player",
+  "devDependencies": {
+    "chai": "^1.9.1",
+    "grunt": "^1.0.1",
+    "grunt-cli": "^1.2.0",
+    "grunt-closure-compiler": "0.0.21",
+    "grunt-contrib-clean": "^1.0.0",
+    "grunt-contrib-watch": "^1.0.0",
+    "grunt-karma": "^2.0.0",
+    "grunt-preprocess": "^5.1.0",
+    "karma": "^1.1.1",
+    "karma-chai": "^0.1.0",
+    "karma-chrome-launcher": "^2.0.0",
+    "karma-mocha": "^1.1.1",
+    "mocha": "^2.5.3"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "keywords": [
+    "tag",
+    "plugin",
+    "player",
+    "playlist",
+    "html5",
+    "media",
+    "action"
+  ],
+  "author": "AT Internet",
+  "license": "MIT"
+}

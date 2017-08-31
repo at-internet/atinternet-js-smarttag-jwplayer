@@ -1,0 +1,9 @@
+{
+  "name":"ATInternetJWPlayer",
+  "description": "Rich Media measurement for JW Player",
+  "public": true,
+  "type": "plugins",
+  "dependencies": ["Tracker", "RichMedia"],
+  "loadOrder": ["at-smarttag-jwplayer.js"],
+  "config": {}
+}
