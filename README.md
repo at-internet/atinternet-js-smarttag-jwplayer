@@ -1,5 +1,5 @@
 # JW Player for AT Internet JavaScript SmartTag
-This JW Player plugin allows you to measure JW Player players (v7) on your website tagged with AT Internet JavaScript SmartTag trackers from version 5.2.3.
+This JW Player plugin allows you to measure JW Player players (v7 & v8) on your website tagged with AT Internet JavaScript SmartTag trackers from version 5.2.3.
 The plugin offers helpers enabling the quick implementation of JW Player players tracking.
 
 ### Content
